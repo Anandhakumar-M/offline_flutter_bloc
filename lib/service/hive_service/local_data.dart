@@ -1,4 +1,4 @@
-import 'package:hive_flutter/adapters.dart';
+import 'package:hive/hive.dart';
 
 class HiveService {
   late Box _dataBox;
